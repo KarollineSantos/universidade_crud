@@ -50,7 +50,7 @@ Este projeto foi gerado utilizando o [Spring Initializr](https://start.spring.io
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Karollxx/universidade_crud.git
+   git clone https://github.com/KarollineSantos/universidade_crud.git
    ```
 
 2. Navegue até a pasta do projeto:
