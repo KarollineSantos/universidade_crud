@@ -123,3 +123,9 @@ Cria um novo registro de pessoa na base de dados.
 - **Spring Data JPA**
 - **MySQL**
 - **Lombok**
+
+## Integrantes do Projeto (nome completo e número de matrícula)
+
+- **Diego Henrique Rodrigues Sawyer (01650828)**
+- **Flávia Karolline Santos Melo (01609189)**
+- **Pedro Fellipe Barretto Campêlo (01635193)**
