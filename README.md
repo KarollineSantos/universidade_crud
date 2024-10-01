@@ -42,7 +42,7 @@ Este projeto foi gerado utilizando o [Spring Initializr](https://start.spring.io
 
 ### Pré-requisitos
 
-1. **Java 23+**: O projeto requer uma versão recente do JDK para ser executado.
+1. **Java 21+**: O projeto requer uma versão recente do JDK para ser executado.
 2. **MySQL**: Instale e configure o MySQL localmente, criando um banco de dados para a aplicação.
 3. **Maven**: O projeto utiliza o Maven como gerenciador de dependências.
 
@@ -118,7 +118,7 @@ Cria um novo registro de pessoa na base de dados.
 
 ## Tecnologias Utilizadas
 
-- **Java 23**
+- **Java 21**
 - **Spring Boot**
 - **Spring Data JPA**
 - **MySQL**
