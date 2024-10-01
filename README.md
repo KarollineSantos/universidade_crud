@@ -101,10 +101,10 @@ Cria um novo registro de pessoa na base de dados.
 - **Corpo da requisição (JSON)**:
   ```json
   {
-  "id": 1,
-  "nome": "João Silva",
-  "cpf": "12345678900",
-  "idade": 25
+	"id": 1,
+	"nome": "Karolline Santos",
+	"cpf": "12345678912",
+	"idade": 20
   }
 
 ## Estrutura do Código
